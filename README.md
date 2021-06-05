@@ -10,7 +10,7 @@ This implementation includes:
 - Automatic BLEU score tracking
 - Automatic interfacing with Wandb 
 
-The default dataset is the TED-multi dataset from Huggingface. This can be easily changed by editing `preprocess.py`
+The default dataset is the TED-multi dataset from Huggingface https://huggingface.co/datasets/ted_multi. This can be easily changed by editing `preprocess.py`
 to interface with other datasets. 
  
 
